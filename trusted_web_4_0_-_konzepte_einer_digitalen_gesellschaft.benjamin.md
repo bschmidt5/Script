@@ -2,3 +2,5 @@
 
 TODO: Buchzusammenfassung von Benjamin
 
+Rechtliche und Organisatorische Hürden
+
